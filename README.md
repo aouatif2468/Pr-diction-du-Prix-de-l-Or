@@ -1,4 +1,3 @@
- Pr-diction-du-Prix-de-l-Or
 # Projet : Prédiction du Prix de l'Or en utilisant le Deep Learning
 
 Ce projet utilise des techniques de deep learning pour prédire le prix de l'or en fonction de divers indicateurs économiques. Le modèle est construit en utilisant TensorFlow et Keras, et les données sont prétraitées à l'aide de pandas et scikit-learn.
